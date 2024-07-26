@@ -1,4 +1,4 @@
- //We copute the data for degree <=200 and Fano index <=10 for codimension 2 complete intersection del Pezzo hyoersurfaces
+ //We copute the data for sum of the degrees <=200 and Fano index <=10 for codimension 2 complete intersection del Pezzo surfaces.
  
 Candidate surface X in P(1^5) with format complete intersection.
 Canonical class: -1
